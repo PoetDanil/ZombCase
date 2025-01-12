@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af0a52d3dc6c4b4cafe026d953a9da5, type: 3}
+  m_Name: Alex
+  m_EditorClassIdentifier: 
+  _ruName: "\u041F\u043E\u043F\u0430\u043B\u0441\u044F!"
+  _enName: Gotcha!
+  _cost: 550
+  _items:
+  - {fileID: 11400000, guid: 1808a06e106364b40a5232adaedc633b, type: 2}
+  - {fileID: 11400000, guid: 8f78db61176e5e0429d7e14589ff4e28, type: 2}
+  - {fileID: 11400000, guid: b7f0f8d620d2c014382b3346c85d34af, type: 2}
+  - {fileID: 11400000, guid: 2a6109226292eba41be32da72c3f315e, type: 2}
+  - {fileID: 11400000, guid: de9363afe2f83344bb784796d20ac4ab, type: 2}
+  - {fileID: 11400000, guid: d55a565c0f664784297ba75fdacbc12b, type: 2}
+  - {fileID: 11400000, guid: 3e1440e5e2633114c88495118c2bd826, type: 2}
+  - {fileID: 11400000, guid: 676a606c3061ad049a15a52efe6a0fd7, type: 2}
+  _isAdCase: 0

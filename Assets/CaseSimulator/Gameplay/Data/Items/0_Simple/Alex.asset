@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8138608e1ce6a4faf6bf8e064748b7, type: 3}
+  m_Name: Alex
+  m_EditorClassIdentifier: 
+  _itemName: "\u0417\u043E\u043C\u0431\u0438"
+  _cost: 50
+  _itemSprite: {fileID: 21300000, guid: a6b45b46d3141b84aa6eb625d0662b0a, type: 3}
+  _rarity: {fileID: 11400000, guid: b673882f6af81b14d9bb45be737600f3, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af0a52d3dc6c4b4cafe026d953a9da5, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  _ruName: "\u042D\u043B\u0438\u0433\u0430\u043D\u0442\u044B\u0439 \u0417\u043E\u043C\u0431\u0438"
+  _enName: Iron
+  _cost: 900
+  _items:
+  - {fileID: 11400000, guid: df0a20ddc8fef354b9ad45040504eba3, type: 2}
+  - {fileID: 11400000, guid: 2cd0f35bcb7230d4ca2f9e602c84ef41, type: 2}
+  - {fileID: 11400000, guid: b7955be7de9454c4c96f314e56d8ef35, type: 2}
+  - {fileID: 11400000, guid: db16c83af2db5f5468e2e6d581dfb046, type: 2}
+  - {fileID: 11400000, guid: 6cc61f5751303b74eaae84238e2ab299, type: 2}
+  - {fileID: 11400000, guid: 3621c59673dd84d45b049f44c0313970, type: 2}
+  - {fileID: 11400000, guid: 5f98b9c4b9865f146af8a6595f24d37f, type: 2}
+  - {fileID: 11400000, guid: 3ecd212e9fb76f8439120841dc95f188, type: 2}
+  - {fileID: 11400000, guid: 6a46a9e057efb4d4987edaea555accb4, type: 2}
+  - {fileID: 11400000, guid: 09f82eb3f23422d4ca44784063b2c557, type: 2}
+  _isAdCase: 0

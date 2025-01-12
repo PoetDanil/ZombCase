@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af0a52d3dc6c4b4cafe026d953a9da5, type: 3}
+  m_Name: Steve
+  m_EditorClassIdentifier: 
+  _ruName: "\u0414\u043E\u0431\u043B\u0435\u0441\u0442\u043D\u044B\u0439 \u0417\u043E\u043C\u0431\u0438"
+  _enName: The Valiant Zombie
+  _cost: 250
+  _items:
+  - {fileID: 11400000, guid: 12f32f6503b3de84f9db10fa2c31771c, type: 2}
+  - {fileID: 11400000, guid: 075f6e34be5d53c4b97d7463c1a81a33, type: 2}
+  - {fileID: 11400000, guid: 2458a458091fcad40a6388ace6533141, type: 2}
+  - {fileID: 11400000, guid: 0b63d96cf7b8305428f0066dd9cdf325, type: 2}
+  - {fileID: 11400000, guid: 6f590250f33bcd546b9311bd48da329c, type: 2}
+  - {fileID: 11400000, guid: 9e68219bb58c51d42a1b215757bfcfe2, type: 2}
+  - {fileID: 11400000, guid: 17dfdf594290bc3458fdbd206e6b0ff4, type: 2}
+  - {fileID: 11400000, guid: 4375f6e493fb05c4a9b4378d5c5c0e3a, type: 2}
+  - {fileID: 11400000, guid: ee7465e1adf8fa64493ffa1bd7d5a7e0, type: 2}
+  - {fileID: 11400000, guid: 6cc61f5751303b74eaae84238e2ab299, type: 2}
+  - {fileID: 11400000, guid: 7c0056a0b81b4964c8d1264518bde8dc, type: 2}
+  - {fileID: 11400000, guid: cfaa376abe953404da3b054d231edd60, type: 2}
+  - {fileID: 11400000, guid: a8590b5a316b20d47a377d6eedc93ee7, type: 2}
+  - {fileID: 11400000, guid: ed9ce2984e412d440a2fe2edb9ec0548, type: 2}
+  - {fileID: 11400000, guid: b7955be7de9454c4c96f314e56d8ef35, type: 2}
+  - {fileID: 11400000, guid: db16c83af2db5f5468e2e6d581dfb046, type: 2}
+  - {fileID: 11400000, guid: a04549f3f39d66e4db3326df90d1f92b, type: 2}
+  - {fileID: 11400000, guid: 3621c59673dd84d45b049f44c0313970, type: 2}
+  - {fileID: 11400000, guid: 78179be1b824afe4096cd4d4a072f494, type: 2}
+  - {fileID: 11400000, guid: f470467e066ff6a428f4d3d1980436ed, type: 2}
+  _isAdCase: 0

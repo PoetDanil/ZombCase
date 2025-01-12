@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af0a52d3dc6c4b4cafe026d953a9da5, type: 3}
+  m_Name: Classic
+  m_EditorClassIdentifier: 
+  _ruName: "\u041E\u0431\u044B\u0447\u043D\u044B\u0439 \u0417\u043E\u043C\u0431\u0438"
+  _enName: An Ordinary Zombie
+  _cost: 175
+  _items:
+  - {fileID: 11400000, guid: c5d16d0df5298734aa9a3c0383b1e4c6, type: 2}
+  - {fileID: 11400000, guid: c77ce08b456da914fa9a6d7a99a1ebb9, type: 2}
+  - {fileID: 11400000, guid: 41d2731385f8a914eb560d0ca3de5115, type: 2}
+  - {fileID: 11400000, guid: 8c87b9ade28450f4abce4f85d900d435, type: 2}
+  - {fileID: 11400000, guid: 13d64c0fc0d54fa40ad77af8ae2b6faa, type: 2}
+  - {fileID: 11400000, guid: 7247a865a5a7f924ab412a57eab45683, type: 2}
+  - {fileID: 11400000, guid: 10457f84c6ad8474a88fdf9b188255ba, type: 2}
+  - {fileID: 11400000, guid: 1b7f502d5d1a4934b8de65901ec32562, type: 2}
+  - {fileID: 11400000, guid: 12f32f6503b3de84f9db10fa2c31771c, type: 2}
+  - {fileID: 11400000, guid: 20012fa23ebcf394bbcadc93111adda9, type: 2}
+  - {fileID: 11400000, guid: 1808a06e106364b40a5232adaedc633b, type: 2}
+  - {fileID: 11400000, guid: 3a843d37dbff3304a8b2d10e3d624816, type: 2}
+  - {fileID: 11400000, guid: 0b63d96cf7b8305428f0066dd9cdf325, type: 2}
+  - {fileID: 11400000, guid: 2458a458091fcad40a6388ace6533141, type: 2}
+  - {fileID: 11400000, guid: 8f78db61176e5e0429d7e14589ff4e28, type: 2}
+  - {fileID: 11400000, guid: 9e68219bb58c51d42a1b215757bfcfe2, type: 2}
+  - {fileID: 11400000, guid: b7f0f8d620d2c014382b3346c85d34af, type: 2}
+  - {fileID: 11400000, guid: 2a6109226292eba41be32da72c3f315e, type: 2}
+  - {fileID: 11400000, guid: 4375f6e493fb05c4a9b4378d5c5c0e3a, type: 2}
+  - {fileID: 11400000, guid: 17dfdf594290bc3458fdbd206e6b0ff4, type: 2}
+  - {fileID: 11400000, guid: de9363afe2f83344bb784796d20ac4ab, type: 2}
+  - {fileID: 11400000, guid: 6cc61f5751303b74eaae84238e2ab299, type: 2}
+  - {fileID: 11400000, guid: a04549f3f39d66e4db3326df90d1f92b, type: 2}
+  - {fileID: 11400000, guid: 3470da28817705747b55b08b108b04ff, type: 2}
+  - {fileID: 11400000, guid: e02b16b79578d7e4cbdbf6b8428b4cfe, type: 2}
+  - {fileID: 11400000, guid: a8590b5a316b20d47a377d6eedc93ee7, type: 2}
+  - {fileID: 11400000, guid: db16c83af2db5f5468e2e6d581dfb046, type: 2}
+  _isAdCase: 0
